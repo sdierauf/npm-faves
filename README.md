@@ -10,3 +10,4 @@ A list of my favorite npm packages, in no particular order.
 * [sequelize](http://sequelizejs.com): SQL stuff with node
 * [bower](http://bower.io): npm for the frontend!
 * [grunt](http://gruntjs.com): like gulp but less hip
+* [json-server](https://github.com/typicode/json-server): super useful for mocking APIs
